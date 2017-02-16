@@ -1,3 +1,6 @@
+# PLEASE NOTE
+## This is only a clone, nothing interesting here
+
 # Ckeditor
 
 [![Build Status](https://semaphoreci.com/api/v1/igor-galeta/ckeditor/branches/master/shields_badge.svg)](https://semaphoreci.com/igor-galeta/ckeditor)
